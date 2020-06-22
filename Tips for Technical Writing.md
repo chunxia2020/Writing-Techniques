@@ -28,8 +28,9 @@ More like a proving process with a summarize word, examples and statements and t
  - et al.
  - exit**ing** lens and focus**ing** to a spot (Keep grammatical forms the same)
  - Repetitive phrasing
- - Use binding spaces to keep numbers with units or leading headers. Don't let they split across multiple lines
+ - Use binding spaces `ctrl`+`shift`+`space` to keep numbers with units or leading headers. Don't let they split across multiple lines
  - 25.2 μm, 50.4 μm, 252.0 μm, 2520.1 μm, 5040.3 μm, and 25201.6 μm (Repeat units after each value)
  - *x*-axis ; *xy*-plane
  - 100 m**L** Use standard SI Units
  - E- to L-band
+ - Avoid sub-sub scrips. Write as $n_eff,max$
