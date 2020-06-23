@@ -34,3 +34,11 @@ More like a proving process with a summarize word, examples and statements and t
  - 100 m**L** Use standard SI Units
  - E- to L-band
  - Avoid sub-sub scrips. Write as $n_eff,max$
+ - Figure font size thumbnail: Lettering in a figure should be no more than about two points smaller than main text text size.
+ - Reference
+  - Do not use et al. Use all authors.
+  - Journal title: Title caps. Example: Optical Express
+  - Titles of papers: Sentence case (Only the first letter of the sentence)
+  - Gallagher, W. J.
+  - Conference: if it is a proceeding,.... location and date (Follow reference of optical letters) instructions for authors...
+  - Books and publishers require city name
