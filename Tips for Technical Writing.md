@@ -18,7 +18,14 @@ More like a proving process with a summarize word, examples and statements and t
   - Size
   - Space between number and unit
 - Check formatting
--
+### Second Nature Check List
+1. **Binding spaces** and **binding hyphens** (strl+shift+space/hyphen)
+2. Does the **leading sentence** make sense?
+3. Does the **narrative** at the **end** of a paragraph make a point?
+4. Not using Equation editor to format text in paragraphs
+5. Adding $\alpha$ = before wavelengths
+6.
+
 
 ## A list of mistakes I made
 
