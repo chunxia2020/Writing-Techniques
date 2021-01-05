@@ -2,13 +2,13 @@
 
 ## Before writing
 
-write down whatever you want to say
-Outline in a logical way to tell the story
-More like a proving process with a summarize word, examples and statements and the final conclusions
+- Write down whatever you want to say
+- Outline in a logical way to tell the story
+- **Structure: Summarize words, examples and statements and the final conclusions.**
 
 ## Logic of writing:
-- One paragraph: Essentially, you are telling a story to PROVE something. It starts with a statement that summarizes main ideas of this paragraph. Follows with assumptions. What experimental methods were used, what observations to support the final conclusion
-- Between paragraphs: The meaning needs to be continuous between paragraphs.
+- **One paragraph:** Essentially, you are telling a story to PROVE something. It starts with a statement that summarizes main ideas of this paragraph. Follows with assumptions. What experimental methods were used, what observations to support the final conclusion
+- **Between paragraphs:** The meaning needs to be continuous between paragraphs.
 
 
 ## After Writing
@@ -23,7 +23,7 @@ More like a proving process with a summarize word, examples and statements and t
 2. Does the **leading sentence** make sense?
 3. Does the **narrative** at the **end** of a paragraph make a point?
 4. Not using Equation editor to format text in paragraphs
-5. Adding $\alpha$ = before wavelengths
+5. Adding **"$\lambda_0$ = "** before wavelengths
 6.
 
 
