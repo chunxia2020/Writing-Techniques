@@ -49,3 +49,6 @@
   - Gallagher, W. J.
   - Conference: if it is a proceeding,.... location and date (Follow reference of optical letters) instructions for authors...
   - Books and publishers require city name
+  - Me: As the beam propagates, the terms that impacts amplitude and phase are colored blue and green, respectively.
+  - SMK: As the beam propagates, the terms that describe changes in amplitude and phase are colored blue and green, respectively. [Comment: The equation does not work on the light wave itself, it just explains how the light wave behave, see the difference?]
+  - the conservated quantity
